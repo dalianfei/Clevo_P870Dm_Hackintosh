@@ -1,7 +1,8 @@
 # Clevo_P870Dm_Hackintosh
-Clevo_P870Dm_Hackintosh
-Mobo：Z170
-CPU:i9-9900K 
-GPU:Nvdia Quadro P5000
-SSD: Nvme
-WIET：Broadcom BCM43
+
+
+1. Mobo：Z170
+2. CPU:i9-9900K 
+3. GPU:Nvdia Quadro P5000
+4. SSD: Nvme
+5. WIET：Broadcom BCM43
